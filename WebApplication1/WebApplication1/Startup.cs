@@ -15,6 +15,7 @@ namespace WebApplication1
     {
         public Startup(IConfiguration configuration)
         {
+            //Test message
             Configuration = configuration;
         }
 
